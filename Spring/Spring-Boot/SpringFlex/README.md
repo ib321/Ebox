@@ -10,6 +10,8 @@
 - **SQL script schema migration supported**
 - **REST APIs supported**
 - **Spring boot dev tool supported**
+- **Spring logback logger supported**
+- **Spring lombok added need testing**
 
 ## Future Enhancements
 
