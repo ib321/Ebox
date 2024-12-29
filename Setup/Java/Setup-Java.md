@@ -28,12 +28,12 @@ This guide demonstrates how to download and install the Java Development Kit (JD
     - Or if not above try **Right click on This PC -> Properties ->Advanced System Settings > Environment Variables**
     - OR if above not work: search **system env** in search box then click on **Edit the system environment variable** then click **Environment Variables**
 2. Then You will get popup like this: 
-    - ![Enviroment varibale PopUp](images/1EnvVar.png)
+    - ![Enviroment varibale PopUp](https://github.com/ib321/Ebox/blob/main/Setup/Java/images/1EnvVar.png?raw=true)
 3. Create a new **system variable** by clicking New below.
 4. Enter variable name: `JAVA_HOME` 
 5. Enter variable Value: `JAVA_HOME` to the path of the JDK installation directory.
     - Example: `C:\Program Files\Java\jdk1.8.0_311`
-    - ![Set Value](images/2EnvVar.png)
+    - ![Set Value](https://github.com/ib321/Ebox/blob/main/Setup/Java/images/2EnvVar.png?raw=true)
 
 ### 4. Set the PATH environment variable:
 1. Click on the "Path" variable and add the path to the JDK's `bin` folder.

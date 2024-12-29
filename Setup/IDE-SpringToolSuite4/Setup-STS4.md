@@ -21,7 +21,7 @@ javac -version
 2. We will download for Eclipse so Focus on **Spring Tools 4 for Eclipse** 
 3. **Click on any Version Here as per the OS to start the download** 
     - Choose the appropriate version for your operating system (Windows, macOS, or Linux).
-    - ![Spring Download Page](images/1spring-page.png)
+    - ![Spring Download Page](https://github.com/ib321/Ebox/blob/main/Setup/IDE-SpringToolSuite4/images/1spring-page.png?raw=true)
 
 ## Step 2: Install/Launch Spring Tool Suite 4
 
@@ -31,9 +31,9 @@ javac -version
 3. Open zip folder there will be several files.
 4. Click on **SpringToolSuite4.exe** file to open **spring tool suite**
 5. You will see a box like below: Choose where you want to create your STS workspace
- - ![STS Launch Box](images/2STSLaunch.png)
+    - ![STS Launch Box](https://github.com/ib321/Ebox/blob/main/Setup/IDE-SpringToolSuite4/images/2STSLaunch.png?raw=true)
 6. Then Click on Launch
 7. Spring Tool Suite 4 Welcome Screen:
-    - ![STS4 Welcome Screen](images/3STSWelcome.png)
+    - ![STS4 Welcome Screen](https://github.com/ib321/Ebox/blob/main/Setup/IDE-SpringToolSuite4/images/3STSWelcome.png?raw=true)
 
 - Congratulations! You have successfully installed Spring Tool Suite 4.

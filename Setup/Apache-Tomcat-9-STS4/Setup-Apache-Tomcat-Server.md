@@ -21,20 +21,21 @@
 1. Go to `Window` > `Show View` > `Other...`
 2. In the `Show View` dialog, expand `Server` and select `Servers`. Click `Open`.
 
-![Open Servers View](images/1AddServer.png)
+![Open Servers View](https://github.com/ib321/Ebox/blob/main/Setup/Apache-Tomcat-9-STS4/images/1AddServer.png?raw=true)
 
 ### Step 3: Add a New Server
 1. In the Servers view, right-click and select `New` > `Server`.
     - Or you can also click on: `No Server are available. Click this link to create a new server..`
 2. In the `New Server` dialog, expand `Apache` and select `Tomcat v9.0 Server`. Click `Next`.
-    - ![Add New Server](images/2NewServer.png)
+    - Like below image.
+    - ![Add New Server](https://github.com/ib321/Ebox/blob/main/Setup/Apache-Tomcat-9-STS4/images/2NewServer.png?raw=true)
 
 ### Step 4: Configure the Tomcat Server
 1. Click `Browse...` and navigate to the directory where you extracted Apache Tomcat 9.
 2. Select the `Tomcat 9` installation directory and click `Finish`.
     - Or you can directly copy paste in  Tomcat installation directory: For my case `C:\Users\india\Downloads\apache-tomcat-9.0.98\apache-tomcat-9.0.98`
     - 
-    - ![Configure Tomcat Server](images/3Tomcat9.png)
+    - ![Configure Tomcat Server](https://github.com/ib321/Ebox/blob/main/Setup/Apache-Tomcat-9-STS4/images/3Tomcat9.png?raw=true)
 3. Click Finish here.
 
 ### Step 5: To Start the Server
