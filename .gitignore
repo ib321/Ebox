@@ -1,6 +1,8 @@
 # Ignore all target directories recursively
 #/Java/JDBC/jdbcapp/target/
 **/target/
+# Ignore STS Server project
+**/Servers/
 
 # Ignore Eclipse specific project files
 **/.classpath
